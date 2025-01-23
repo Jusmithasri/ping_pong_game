@@ -33,8 +33,3 @@ Ensure you have Python installed on your computer.
 Install the Turtle graphics library if not already installed.
 
 Run the script in a Python environment to start the game.
-
-
-
-Conclusion:
-This Ping-Pong game project is a fun and interactive way to practice Python programming, specifically using the Turtle graphics library for animations and game development. It provides a hands-on experience in creating game mechanics, handling user input, and implementing a scoring system.
